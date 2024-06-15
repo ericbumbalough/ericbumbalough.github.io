@@ -2,14 +2,14 @@
 Sample data was used for the plots utilizing non-public data. Some parameters have been renamed and units are arbitrary.
 
 ## Sample Selection Visualization
-![Sample Selection Visualization](/img/Sample Selection Visualization.png)
+![Sample Selection Visualization](/img/SampleSelectionVisualization.png)
 
 The sample selection visualization was designed to help decision makers balance multiple priorities when deciding which manufacturing lot to test next. The optimal choice would be high importance and high urgency (upper right) with a long time since last test (large diameter). Additionally, the color of the marker indicates whether the decision maker would need to obtain new batteries for testing. 
 
 Decision makers were also given a list of Pareto optimal lots that considered even more factors to narrow their choices down.
 
 ## Bayesian Multilevel Model of Battery Aging
-![Bayesian Multilevel Model of Battery Aging](/img/Bayes ML left.png) ![Bayesian Multilevel Model of Battery Aging](/img/Bayes ML right.png)
+![Bayesian Multilevel Model of Battery Aging](/img/BayesMLleft.png) ![Bayesian Multilevel Model of Battery Aging](/img/BayesMLright.png)
 
 A Bayesian multilevel model of battery aging was built with manufacturing lot as a level. In the plots above, each line represents and equally likely simulated battery’s aging. The model is able to capture differences between lots A and B even though there are only two aged data points for each lot. The Bayesian model predicted the median 50% better than the previous model.
 
@@ -31,7 +31,7 @@ Color indicates the value of the prediction, and the size of the marker represen
 
 
 ## Other Visualizations
-![Temperature Records](/img/Coursera Weather Graph Assignment.jpg)
-![Interactive Bar Graph](/img/Interactive plot - bar coloring.png)
+![Temperature Records](/img/CourseraWeatherGraphAssignment.jpg)
+![Interactive Bar Graph](/img/Interactiveplot-barcoloring.png)
 
 
