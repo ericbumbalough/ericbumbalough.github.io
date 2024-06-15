@@ -32,6 +32,6 @@ Color indicates the value of the prediction, and the size of the marker represen
 
 ## Other Visualizations
 ![Temperature Records](/img/CourseraWeatherGraphAssignment.jpg)
-![Interactive Bar Graph](/img/Interactiveplot-barcoloring.png)
+![Interactive Bar Graph](/img/Interactiveplot-barcoloring.gif)
 
 
