@@ -9,7 +9,7 @@ The sample selection visualization was designed to help decision makers balance 
 Decision makers were also given a list of Pareto optimal lots that considered even more factors to narrow their choices down.
 
 ## Bayesian Multilevel Model of Battery Aging
-![Bayesian Multilevel Model of Battery Aging](/img/BayesMLleft.png "" =75%x)![Bayesian Multilevel Model of Battery Aging](/img/BayesMLright.png "" =75%x)
+![Bayesian Multilevel Model of Battery Aging](/img/BayesMLleft.png){: width="50%"}![Bayesian Multilevel Model of Battery Aging](/img/BayesMLright.png){: width="50%"}
 
 A Bayesian multilevel model of battery aging was built with manufacturing lot as a level. In the plots above, each line represents and equally likely simulated battery’s aging. The model is able to capture differences between lots A and B even though there are only two aged data points for each lot. The Bayesian model predicted the median 50% better than the previous model.
 
